@@ -1,0 +1,233 @@
+﻿Paper_number,Authors,Paper_date,Lat,Lon,Continent,Country,loc_Name,mean_rate_mm_yr,max_rate_mm_yr,Category,Study_period
+z24,Ferretti et al.,2004,37.737,-122.235,North_Am,USA,"Bay Farm Island, Alameda, CA",NA,18.75,Natural Compaction,1992-2000
+z24,Ferretti et al.,2004,37.882981,-122.238579,North_Am,USA,Berekley Hills,NA,38,Natural Compaction,1992-2000
+z24,Ferretti et al.,2004,37.712319,-122.38478,North_Am,USA,Southeast San Francisco,NA,18.75,Natural Compaction,1992-2000
+z24,Ferretti et al.,2004,37.825,-122.371,North_Am,USA,Treasure Island,NA,18.75,Natural Compaction,1992-2000
+z20,Cigna et al.,2019,19.415734,-98.14,North_Am,Mexico,Apizaco,NA,17,Groundwater,2003-2011
+z20,Cigna et al.,2019,19.409462,-99.143624,North_Am,Mexico,eastern Mexico City,NA,44,Groundwater,2003-2014
+z20,Cigna et al.,2019,19.051004,-98.196172,North_Am,Mexico,Eastern Trans-Mexican Volcanic Belt (T,NA,53,Groundwater,2003-2010
+z20,Cigna et al.,2019,19.316087,-97.442864,North_Am,Mexico,Las Derumbadas,NA,10,Groundwater,2003-2015
+z20,Cigna et al.,2019,19.684326,-97.450003,North_Am,Mexico,Los Humeros,NA,11,Groundwater,2003-2016
+z20,Cigna et al.,2019,18.859465,-97.749388,North_Am,Mexico,Tecamachalco valley,NA,22,Groundwater,2003-2012
+z20,Cigna et al.,2019,20.111557,-98.374054,North_Am,Mexico,Tulancingo,NA,55,Groundwater,2003-2013
+z17,Xu et al.,2017,32.391736,-115.26991,North_Am,Mexico,Cerro Prieto geothermal field,NA,163,Geothermal,2014-2016
+z17,Xu et al.,2017,32.713745,-115.536042,North_Am,USA,"Heber, CA",NA,60,Geothermal,2014-2016
+z16,Ojha et al.,2018,38.817781,-121.58416,North_Am,USA,California Central Valley,NA,50,Groundwater,2007-2011
+z16,Ojha et al.,2018,37.092721,-121.04076,North_Am,USA,California Central Valley,NA,200,Groundwater,2007-2012
+z16,Ojha et al.,2018,36.14,-119.342404,North_Am,USA,California Central Valley,NA,250,Groundwater,2007-2010
+z16,Ojha et al.,2018,35.34,-118.72,North_Am,USA,California Central Valley,NA,50,Groundwater,2007-2013
+z15,Li et al.,2020,43.255203,-79.843826,North_Am,Canada,"Ontario, Lake Erie Lake Ontario",NA,7,Tectonic,2013-2017
+z15,Li et al.,2020,43.683334,-79.76667,North_Am,Canada,"Ontario, Lake Erie Lake Ontario",NA,1,Tectonic,2013-2017
+z14,Samsonov et al.,2017,32.391736,-115.26991,North_Am,Mexico,Cerro Prieto Geothermal Field,NA,108,Geothermal,2011-2016
+z12,Yalvac,2020,21.88234,-102.28259,North_Am,Mexico,Aguascalientes,NA,115,Groundwater,2014-2019
+z12,Yalvac,2020,19.432608,-99.133209,North_Am,Mexico,Mexico City,NA,370,Groundwater,2014-2018
+z08,Sarychikhina et al.,2018,32.391736,-115.26991,North_Am,Mexico,Cerro Prieto Geothermal Field,NA,170,Geothermal,1993-2014
+z05,Fischi et al.,2021,36.850769,-76.285873,North_Am,USA,"Norfolk, VA",NA,8.3,Urbanization,1992-1999
+z04,Chen et al.,2018,49.246292,-123.11623,North_Am,Canada,Vancouver Region,NA,100,Urbanization,2013-2015
+z01,Ojha et al.,2019,41.9525,-121.4722,North_Am,USA,"Tule Lake, CA",NA,250,Groundwater,2015-2017
+z01,Ojha et al.,2019,36.207729,-119.34734,North_Am,USA,"Chowchilla, CA",NA,150,Groundwater,2015-2017
+z01,Ojha et al.,2019,36.40439,-118.97427,North_Am,USA,"Kaweah Subbasin, CA",NA,250,Groundwater,2015-2017
+p49,Xu et al.,2018,38.347222,-122.695278,North_Am,USA,Rohnert Park,NA,7,Groundwater,1992-2010
+p49,Xu et al.,2018,38.208351,-122.416983,North_Am,USA,Sonoma Valley,NA,6,Groundwater,1992-2010
+p49,Xu et al.,2018,37.737,-122.235,North_Am,USA,Western SF Bay,NA,10,Natural Compaction,1992-2010
+p48,Wang et al.,2018,19.5,-99,North_Am,Mexico,Mexico City,NA,220,Groundwater,2015-2016
+p47,"Wang et al.
+",2018,54,-166,North_Am,USA,Akutan volcano,NA,10,Tectonic,2003-2016
+p39,Pascal Castellazzi et al.,2017,19.33,-99.67,North_Am,Mexico,Toluca Valley,NA,77,Groundwater,2003-2016
+p34,Shirzaei and B√ºrgmann,2018,NA,NA,North_Am,USA,Natural coastal areas SF Bay,NA,10,Natural Compaction,2007-2010
+p33,Blackwell et al.,2020,NA,NA,North_Am,USA,San Diego,NA,2.7,Natural Compaction,2007‚2018
+p33,Blackwell et al.,2020,NA,NA,North_Am,USA,San Francisco Bay Area,NA,5.9,Natural Compaction,2007‚2018
+p33,Blackwell et al.,2020,NA,NA,North_Am,USA,Santa Cruz,NA,8.7,Natural Compaction,2007‚2018
+p30,Zhou et al.,2020,NA,NA,Asia,China,Beijing-Tianjin-Hebei,NA,120,Groundwater,2012-2018
+p29,van der Horst et al.,2017,16.8409,96.1735,Asia,Myanmar,Yangon,NA,20,Groundwater,2014-2017
+p28,Hua et al.,2019,39.9042,116.4074,Asia,China,Bejing,NA,140,Groundwater,2015-2017
+p27,Othman and Abotalib,2019,26.2078,43.4837,Asia,Saudi Arabia,Al-Qassim,NA,12,Groundwater,2003-2004
+p26,Meldebekova et al.,2020,34.5553,69.2075,Asia,Afghanistan,Kabul,NA,53,Groundwater,2014-2019
+P25,Chen et al.,2017,39.9042,116.4074,Asia,China,Beijing plain area,NA,100,Groundwater ,2003-2010
+p20,Catalao et al.,2020,1.3521,103.8198,Asia,Singapore,Singapore,NA,12,Urbanization,2011-2016
+P19,Venvik et al.,2020,60.389444,5.33,Europe,Norway,Bergen,NA,5,Groundwater,2015-2018
+P14,Metois et al.,2019,40.71,19.61,Europe,Albania,Patos-Marinza oil field,NA,15,Oil & Gas,2014-2018
+P08,Paradella et al.,2015,-6.055033,-50.1773,South_Am,Brazil,Carajas mineral province,NA,474.6,Mining,2012-2013
+P06,Gama et al.,2017,-6.055033,-50.1773,South_Am,Brazil,Carajas Mineral Province (Brazilian Amazon Region),NA,140,Mining,2012-2013
+P05,Mura et al.,2016,-6.078272,-50.142283,South_Am,Brazil,Carajas mineral province,NA,340,Mining,2012-2013
+P04,Temporim et al.,2018,-6.078534,-50.125153,South_Am,Brazil,Carajas mineral province,NA,18.4,Mining,2012-2013
+P03,Du et al.,2020,-20.23,-44.12,South_Am,Brazil,"Brumadinho, Minas Gerais, Brazil",NA,62.6,Mining,2018-2019
+AF05,Ikuemonisan and Ozebo,2020,6.529184,3.26918,Africa,Nigeria,Lagos,NA,84,Groundwater,2009-2011
+AF05,Ikuemonisan and Ozebo,2020,6.5227,3.6218,Africa,Nigeria,Lagos,NA,87,Groundwater,2017-2019
+AF04,Ikuemonisan et al.,2020,6.529184,3.26918,Africa,Nigeria,Lagos,NA,44,Urbanization,2017-2019
+AF03,Rate and Hermas,2020,0.398,36.961,Africa,Kenya,Embu,NA,40,Tectonic,2018
+233,Du et al.,2018,-34.2,150.7333,Australia,Australia,Appin & West Cliff Colliery,NA,50,Mining,2007-2016
+232,Parker et al.,2017,-32,116,Australia,Australia,Perth,NA,20,Groundwater,2015-2016
+215,Miller and Shirzae,2015,33.4484,-112.074,North_Am,USA,"Phoenix, AZ",NA,18.3,Groundwater,1992-2010
+211,Ghazifard et al.,2016,33.985036,51.409963,Asia,Iran,Kashan,NA,35,Groundwater,2003-2008
+210,Sheng et al.,2015,29.5628,106.5528,Asia,China,Chongqing,NA,328,Mining,2007-2010
+205,Sergey V. Samsonov,2017,54.46,-110.173,North_Am,Canada,Cold lake,NA,50,Oil & Gas,2010-2016
+151,Raucoules et al.,2007,48.874423,6.208093,Europe,France,Lorraine,NA,30,Mining,1992-1993
+149,Tesauro et al.,2000,40.8563,14.2464,Europe,Italy,Napoli,NA,50,Urbanization,1993-1995
+120,Fielding et al.,1998,35.475,-119.742,North_Am,USA,"Belridge, CA",NA,400,Oil & Gas,1995-1997
+120,Fielding et al.,1998,35.616,-119.694,North_Am,USA,"Lost Hills, CA",NA,620.5,Oil & Gas,1995-1996
+118,Sousa et al.,2010,37.075024,-3.657254,Europe,Spain,Otura,NA,10,Groundwater,1992-2006
+99,Ng et al.,2011,39.9075,116.3972,Asia,China,Beijing,NA,115,Groundwater,2003-2009
+70,Buckley et al.,2003,29.564,-95.025,North_Am,USA,Houston,NA,40,Oil & Gas,1996-1998
+69,Chaussard et al.,2014,21.890529,-102.286697,North_Am,Mexico,Aguascalientes,NA,55,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.056043,-104.488954,North_Am,Mexico,Ahuacatlan,NA,50,Groundwater,2003-2008
+69,Chaussard et al.,2014,20.546229,-100.833838,North_Am,Mexico,Celaya,NA,85,Groundwater,2003-2008
+69,Chaussard et al.,2014,20.670416,-103.359961,North_Am,Mexico,Guadalajara,NA,33,Groundwater,2007-2011
+69,Chaussard et al.,2014,20.681993,-101.351073,North_Am,Mexico,Irapuato,NA,72,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.138082,-101.704636,North_Am,Mexico,Leon,NA,52,Groundwater,2003-2008
+69,Chaussard et al.,2014,19.4285,-99.1277,North_Am,Mexico,Mexico City,NA,300,Groundwater,2007-2011
+69,Chaussard et al.,2014,19.714882,-101.211451,North_Am,Mexico,Morelia,NA,70,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.886994,-102.284705,North_Am,Mexico,North Aguascalientes,NA,83,Groundwater,2007-2011
+69,Chaussard et al.,2014,19.037448,-98.197257,North_Am,Mexico,Puebla,NA,44,Groundwater,2007-2011
+69,Chaussard et al.,2014,20.604421,-100.402321,North_Am,Mexico,Queretaro,NA,50,Groundwater,2007-2011
+69,Chaussard et al.,2014,20.561915,-101.198081,North_Am,Mexico,Salamanca,NA,74,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.291764,-100.522889,North_Am,Mexico,San Luis de la Paz,NA,40,Groundwater,2003-2008
+69,Chaussard et al.,2014,22.158181,-100.98903,North_Am,Mexico,San Luis Potosi,NA,39,Groundwater,2003-2008
+69,Chaussard et al.,2014,20.95366,-101.428309,North_Am,Mexico,Silao,NA,50,Groundwater,2003-2008
+69,Chaussard et al.,2014,21.285126,-100.522803,North_Am,Mexico,South of San Luis de la Paz,NA,88,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.490683,-104.87124,North_Am,Mexico,Tepic,NA,68,Groundwater,2003-2008
+69,Chaussard et al.,2014,19.281906,-99.668647,North_Am,Mexico,Toluca,NA,70,Groundwater,2007-2011
+69,Chaussard et al.,2014,22.647179,-100.851364,North_Am,Mexico,West of Villa Arista,NA,184,Groundwater,2007-2011
+69,Chaussard et al.,2014,21.802444,-100.946266,North_Am,Mexico,West of Villa de Reyes,NA,52,Groundwater,2007-2011
+69,Chaussard et al.,2014,19.995787,-102.27384,North_Am,Mexico,Zamora,NA,128,Groundwater,2003-2008
+67,Zhu et al.,2015,39.9075,116.3972,Asia,China,Beijing,NA,52,Groundwater,2003-2010
+65,Ge et al.,2014,-6.9039,107.6186,Asia,Indonesia,Bandung,NA,240,Groundwater,2002-2011
+56,Aobpaet et al.,2012,13.754,100.5014,Asia,Thailand,Bangkok,NA,30,Groundwater,2005-2010
+52,Higgins et al.,2014,23.7104,90.4074,Asia,Bangladesh,Dhaka city-center,NA,10,Groundwater,2007-2011
+52,Higgins et al.,2014,23.7104,90.4074,Asia,Bangladesh,Dhaka outskirts,NA,18,Groundwater,2007-2011
+51,Zhao et al.,2011,22.2855,114.1577,Asia,Hong Kong,Hong Kong International Airport,NA,10,Natural Compaction,2006-2008
+46,Chen et al.,2012,22.2,113.555,Asia,China/Hong Kong,Greater Pearl River Delta region,NA,3.18,Urbanization,2006-2010
+45,Ding et al.,2004,22.2855,114.1577,Asia,Hong Kong,Hong Kong International Airport,NA,50,Natural Compaction,1998-1999
+44,Tao et al.,2012,39.1422,117.1767,Asia,China,Tianjin,NA,34,Groundwater,2007-2010
+40,Bonforte et al.,2007,37.751005,14.993435,Europe,Italy,Mount Etna,NA,70,Tectonic,2002
+39,Akarvardar et al.,2009,40.98,28.71,Asia,Turkey,"Avcilar district, Istanbul",NA,6,Natural Compaction,1992-1999
+9,Lashkaripou et al.,2014,36.3156,59.568,Asia,Iran,Mashhad,NA,240,Groundwater,2003-2006
+7,Bayuaji et al.,2010,-6.114,106.804,Asia,Indonesia,Jakarta,NA,84.25,Groundwater,2007-2008
+z29,Motagh et al.,2017,30.3549,56.0027,Asia,Iran,Koshkoueieh-Rafsanjan,300,NA,Groundwater,2006-2016
+z11,Ojha et al.,2020,37.9832553,-121.8677352,North_Am,USA,"Tulare, CA",275,300,Groundwater,2015-2017
+108,Kim et al.,2013,23.75833333,86.33333333,Asia,India,Jharia,264,352,Mining,2007-2010
+z30,Haghighi and Motagh,2019,35.3174,56.294,Asia,Iran,Tehran Plain,250,NA,Groundwater,2003-2017
+z30,Haghighi and Motagh,2019,35.325474,51.645665,Asia,Iran,Veramin Plain,220,NA,Groundwater,2003-2017
+z06,Du et al.,2019,19.432608,-99.133209,North_Am,Mexico,Mexico City,208,300,Groundwater,2004-2018
+131,Chaussard et al.,2013,-6.9039,107.6186,Asia,Indonesia,Bandung,173,225,Groundwater,2007-2009
+P10,Pinto et al.,2015,-6.105611,-50.300385,South_Am,Brazil,Azul Mining Complex,157.5,170.2,Mining,2012-2013
+131,Chaussard et al.,2013,-6.13757,106.776637,Asia,Indonesia,Jakarta,155,218,Groundwater,2007-2008
+p46,Salzer et al.,2017,19.5,-103.6,North_Am,Mexico,Volcan de Colima,150,NA,Tectonic,2012
+49,Raucoules et al.,2013,14.6042,120.9822,Asia,Philippines,Manila,150,NA,Groundwater,1993-2010
+74,Sarychikhina et al.,2011,32.6448,-115.4581,North_Am,Mexico,Cerro Prieto Geothermal Field,140,170,Geothermal,2004-2005
+131,Chaussard et al.,2013,-7.4478,112.7183,Asia,Indonesia,Sidoarjo,136.5,165,Oil & Gas,2007-2009
+131,Chaussard et al.,2013,-7.4457,107.5979,Asia,Indonesia,Bungbulang,133,151,Groundwater,2007-2010
+p42,Levy et al.,2020,37,-119,North_Am,USA,"Kaweah Subbasin, CA",131,NA,Groundwater,2015-2017
+82,Hu et al.,2014,40,116,Asia,China,Bejing,110,NA,Groundwater,2003-2010
+31,Kutoglu et al.,2014,40.1927,29.084,Asia,Turkey,Bursa,109,NA,Tectonic,2007-2010
+131,Chaussard et al.,2013,-7.0051,110.4381,Asia,Indonesia,Semarang,100,130,Groundwater,2007-2009
+97,Samsonov et al.,2014,52.1168,-106.6345,North_Am,Canada,Saskatoon,100,NA,Mining,2008-2011
+131,Chaussard et al.,2013,-6.8886,109.6753,Asia,Indonesia,Pekalongan,91,105,Groundwater,2007-2009
+131,Chaussard et al.,2013,-6.2797,107.6658,Asia,Indonesia,Blanakan,90,120,Groundwater,2007-2009
+z27,Calderhead et al,2011,19.332097,-99.667885,North_Am,Mexico,Toluca,80,100,Groundwater,2003-2008
+131,Chaussard et al.,2013,5.181164,97.141322,Asia,Indonesia,Lhokseumawe,79,113,Oil & Gas,2007-2009
+p21,Parwata et al.,2019,-7.045227,110.4381,Asia,Indonesia,Semarang City,76,99,Groundwater,2007-2010
+131,Chaussard et al.,2013,3.5833,98.6667,Asia,Indonesia,Medan,65,83,Groundwater,2007-2009
+99,Ng et al.,2011,39.9,116.41,Asia,China,Langfang,65,NA,Groundwater,2007-2008
+AF05,Ikuemonisan and Ozebo,2020,6.529184,3.26918,Africa,Nigeria,Lagos,63,NA,Groundwater,2015-2017
+105,Zhao et al.,2008,32.0617,118.7778,Asia,China,Xian,60,NA,Urbanization,2005-2006
+92,Ebmeier et al.,2012,14.7394,-91.5681,North_Am,Guatemala,Santiaguito Volcano,60,NA,Tectonic,2004-2005
+109,Akein et al.,2010,41.4514,31.7931,Asia,Turkey,Zonguldak,58,NA,Mining,2005-2006
+100,Cigna et al.,2011,19.7008,-101.1844,North_Am,Mexico,Morelia,55.5,NA,Groundwater,2003-2010
+p31,Meldebekova et al.,2020,34.5553,69.2075,Asia,Afghanistan,Kabul,53,53,Groundwater,2014-2019
+z25,Hole et al.,2007,-38.62597,176.103232,New Zealand,New Zealand,Wairakei-Tauhara Geothermal Field,52,NA,Geothermal,2001-2004
+64,Qu et al.,2014,32.0617,118.7778,Asia,China,Xian,50,NA,Groundwater,2005-2012
+p43,Murgia et al.,2019,19.7,-103.5,North_Am,Mexico,Ciudad Guzman,45,60,Groundwater,2003-2018
+z26,Zhao et al.,2011,40.025477,113.141358,Asia,China,Datong,40,NA,Mining,2004-2008
+113,Hsu et al.,2015,23.709,120.431,Asia,Taiwan,Yunlin County,40,71,Groundwater,2007-2010
+96,Gourmelen et al.,2007,40.416,-116.5765,North_Am,USA,"Crescent Valley, NV",40,NA,Groundwater,1996-2002
+88,Nga et al.,2012,-6.174465,106.822745,Asia,Indonesia,Jakarta,38,NA,Groundwater,2007-2009
+141,Bawden et al.,2001,34.012235,-117.688944,North_Am,USA,"Chino, CA",34,NA,Groundwater,1997-1998
+z07,Mohammadimanesh et al.,2019,63.5891643,-135.89066,North_Am,Canada,Village of Mayo,30,40,Natural Compaction,2015
+p45,Reinisch et al.,2020,35.92,117.67,North_Am,USA,"Coso Geothermal Field, CA",30,NA,Geothermal,2004-2016
+141,Bawden et al.,2001,34,-118.264733,North_Am,USA,"Los Angeles, CA",17.5,28,Oil & Gas,1997-1999
+108,Kim et al.,2007,35.16666667,129.0833333,Asia,Korea,Busan,27,NA,Urbanization,1992-1998
+32,Lee et al.,2013,52.3123,-172.4537,North_Am,USA,"Seguam Island, AK",26.67,50,Tectonic,1992-2008
+108,Kim et al.,2007,37.46,126.69,Asia,Korea,Incheon,26,NA,Urbanization,1992-1998
+14,Ng et al.,2015,-37.4713,144.7852,Australia,Australia,Gippsland,25.07,82.9,Mining,2006-2011
+z27,Calderhead et al,2011,19.332097,-99.667885,North_Am,Mexico,Toluca,25,60,Groundwater,1996-2008
+p40,Chen et al.,2020,69,-150,North_Am,USA,"Anaktuvuk River, AK",25,NA,Natural Compaction,2006-2010
+76,Hongdong et al.,2011,32.06,118.76,Asia,China,Jiangsu County,22.95,NA,Groundwater,1995-2000
+z26,Zhao et al.,2011,40.084897,113.306115,Asia,China,Datong,20,NA,Groundwater,2004-2008
+P15,Parwata et al.,2020,44.536576,18.679165,Europe,Bosnia and Herzegovina,Tuzla,20,40,Mining,2014-2019
+147,Dong et al.,2013,31.2222,121.4581,Asia,China,Shanghai,20,40,Groundwater,2007-2010
+63,Canova et al.,2012,37.250068,15.221697,Europe,Italy,Augusta,18,NA,Groundwater,1992-2000
+2,Brunori et al.,2013,-27.0667,-70.8178142,South_Am,Argentina,Cerro Blanco/Robledo Caldera,17.6,NA,Tectonic,1992-2010
+57,Kim et al.,2008,39.167,127.481,Asia,South Korea,Wonsan,17,53,Urbanization,1992-1998
+p41,Hu and BuÃàrgmann,2020,41,-112,North_Am,USA,"Salt Lake Valley, UT",16,NA,Groundwater,2014-2019
+57,Kim et al.,2008,34.8118,126.3922,Asia,South Korea,Hadang,16,53,Urbanization,1992-1998
+p44,Qu et al.,2019,30,-95,North_Am,USA,"Houston, TX",15,30,Groundwater,2007-2011
+p23,Suganthi et al.,2017,22.5726,88.3639,Asia,India,Kolkata,15,18,Groundwater,2007-2010
+P17,Roccheggiani et al.,2019,44.405804,8.976346,Europe,Italy,"Genoa, San Martino District",15,30,Urbanization,2015-2018
+AF05,Ikuemonisan and Ozebo,2020,6.529184,3.26918,Africa,Nigeria,Lagos,15,NA,Groundwater,2004-2011
+32,Lee et al.,2013,52.3123,-172.4537,North_Am,USA,Seguam Island,15,16,Tectonic,1992-2008
+117,Heleno et al.,2011,38.8717,-9.0778,Europe,Portugal,Vialonga,14.5,15,Groundwater,1992-2006
+45,Ding et al.,2004,22.478,114.044,Asia,Hong Kong,Fairview Park,13,NA,Natural Compaction,1996-1999
+p22,Fadhillah et al.,2020,37.563933,126.800717,Asia,South Korea,Seoul,12.57,NA,Urbanization,2017-2020
+141,Bawden et al.,2001,33.826032,-117.867038,North_Am,USA,"Santa Ana Basin, CA",12,NA,Groundwater,1997-1999
+117,Heleno et al.,2011,38.7167,-9.1333,Europe,Portugal,Laranjeiras,11.5,14,Groundwater,1992-2006
+110,Ao et al.,2014,23.12911,113.264385,Asia,China,Nansha,11.42,38.47,Urbanization,2012-2013
+57,Kim et al.,2008,34.8118,126.3922,Asia,South Korea,Dongmyung,11,66,Urbanization,1992-1998
+23,Liu et al.,2008,31.2222,121.4581,Asia,China,Shanghai,11,NA,Groundwater,1992-2002
+p22,Fadhillah et al.,2020,37.611812,126.834585,Asia,South Korea,Seoul,10.25,NA,Urbanization,2017-2020
+p49,Xu et al.,2018,38.790556,-122.755833,North_Am,USA,The Geysers,10,17,Geothermal,1992-2010
+60,W√∂ppelmann et al.,2013,31.1508,29.9,Africa,Egypt,Alexandria,10,NA,Natural Compaction,2003-2011
+p38,Bekaert et al.,2019,38,-122,North_Am,USA,"Sacramento Delta, CA",9.2,160,Natural Compaction,2009-2015
+z21,Nobile et al.,2017,32.898273,131.08739,Asia,Japan,"Aso Caldera, Mt. Aso",9,NA,Tectonic,1996-1998
+p20,Catalao et al.,2020,1.3521,103.8198,Asia,Singapore,Puggol Timor Island,9,NA,Urbanization,2011-2016
+87,Zhang et al.,2012,33.9617,-118.3531,North_Am,USA,Inglewood,9,NA,Oil & Gas,1995-2000
+27,Fruneau and Sarti,2000,48.8534,2.3488,Europe,France,Paris,8.82,NA,Groundwater,1993-1996
+148,Karila et al.,2005,60.4515,22.2687,Europe,Finland,Turku,8.5,NA,Urbanization,1992-2002
+p22,Fadhillah et al.,2020,37.523615,127.205857,Asia,South Korea,Seoul,8.42,NA,Urbanization,2017-2020
+z25,Hole et al.,2007,-38.162701,176.257731,New Zealand,New Zealand,Rotorua geothermal field,8,NA,Geothermal,1996-1998
+86,Minh et al.,2015,10.823,106.6296,Asia,Vietnam,Ho Chi Minh City,8,70,Groundwater,2006-2010
+5,Ezquerro et al.,2014,40.4165,-3.7026,Europe,Spain,Madrid,7.5,NA,Groundwater,1992-2000
+p22,Fadhillah et al.,2020,37.438967,126.786755,Asia,South Korea,Seoul,7.34,NA,Urbanization,2017-2020
+116,Francesca et al.,2014,46.2931,0.1156,Europe,Italy,Rome,7,NA,Urbanization,2011-2013
+114,Aly et al.,2009,30.0626,31.2497,Africa,Egypt,Cairo,7,NA,Groundwater,1993-2000
+z11,Ojha et al.,2020,33.448376,-112.07404,North_Am,USA,"Phoenix, AZ",6,NA,Groundwater,2014-2017
+63,Canova et al.,2012,37.075474,15.286586,Europe,Italy,Siracusa,6,NA,Groundwater,1992-2000
+26,Seleem et al.,2011,27.911697,34.332424,Africa,Egypt,Namma and Sharm El-Sheikh,6,7,Groundwater,2003-2009
+140,Chatterjee et al.,2006,22.5626,88.363,Asia,India,Kolkata,5.75,NA   ,Groundwater,1992-1998
+216,Huang et al.,2016,30.1829,66.998,Asia,Pakistan,Quetta,5.5,5.8,Groundwater,2003-2010
+z28,Herrera et al,2010,37.987,-1.13,Europe,Spain,Murcia,5,35,Groundwater,2008-2009
+z25,Hole et al.,2007,-38.529663,175.926257,New Zealand,New Zealand,Mokai geothermal field,5,NA,Geothermal,1999-2000
+z23,Doin et al.,2015,31.819278,89.165825,Asia,Tibet,Siling Co Lake,5,NA,Tectonic,1992-2011
+z11,Ojha et al.,2020,36.114647,-115.17281,North_Am,USA,"Las Vegas, NV",5,NA,Groundwater,2014-2020
+z09,Bekesi et al.,2019,29.684037,-97.449412,North_Am,Mexico,Los Humeros Geothermal,5,8,Geothermal,2003-2007
+z03,Miller and Shirzaei,2019,29.749907,-95.358421,North_Am,USA,"Houston-Galveston, TX",NA,34,Groundwater,2015-2017
+z03,Miller and Shirzaei,2019,29.749907,-95.358421,North_Am,USA,"Houston-Galveston, TX",NA,49,Groundwater,2007-2011
+p20,Catalao et al.,2020,1.3521,103.8198,Asia,Singapore,Johor City,5,NA,Urbanization,2011-2016
+137,Stramondo et al.,2008,46.2931,0.1156,Europe,Italy,Rome,5,10,Urbanization,1995-2000 /2002-2005
+63,Canova et al.,2012,37.250633,15.092728,Europe,Italy,Villasmundo,5,NA,Groundwater,1992-2000
+z15,Li et al.,2020,42.983612,-81.249725,North_Am,Canada,"Ontario, Lake Erie Lake Ontario",4.5,5,Tectonic,2013-2017
+63,Canova et al.,2012,37.157858,15.183701,Europe,Italy,Priolo,4.5,NA,Groundwater,1992-2000
+26,Seleem et al.,2011,27.915817,34.32995,Africa,Egypt,Sharm El-Sheikh,4.5,5,Groundwater,2003-2009
+z31,Sherpa et al.,2023,37.06417,-76.388531,North_Am,USA,Chesapeake Bay,4.25,5.5,Groundwater,2007-2020
+17,Sharma et al.,2014,19.0728,72.8826,Asia,India,Mumbai,4.02,39.2,Groundwater,1992-2010
+148,Karila et al.,2005,60.1695,24.9354,Europe,Finland,Helsinki,3.85,NA,Urbanization,1992-2002
+z15,Li et al.,2020,43.466667,-80.51667,North_Am,Canada,"Ontario, Lake Erie Lake Ontario",3.5,4,Tectonic,2013-2017
+z11,Ojha et al.,2020,38.846127,-104.80064,North_Am,USA,"Colorado Springs, CO",3.5,NA,Groundwater,2014-2020
+58,Jiang and Lin,2010,22.2855,114.1577,Asia,China,Hong Kong Airport,3.5,NA,Urbanization,2003-2008
+z11,Ojha et al.,2020,32.25346,-110.91179,North_Am,USA,"Tucson, AZ",3,NA,Groundwater,2014-2018
+20,Finnegan et al.,2008,47.6062,-122.3321,North_Am,USA,"Seattle, WA",3,NA,Groundwater,1992-2000
+P13,Kaitantzian et al.,2020,37.953224,23.684702,Europe,Greece,Athens,2.75,5,Groundwater,1992-2010
+z22,Daout et al.,2017,31.646932,87.336803,Asia,Tibet,Northwestern Tibetan Plateau,2.5,3,Natural Compaction,2003-2011
+139,Parcharidis et al.,2006,37.9839,23.7293,Europe,Greece,Athens,2.5,4,Groundwater,1992-2002
+54,Wang et al.,2012,22.5455,114.0683,Asia,China,Pearl River Delta,2.5,6,Urbanization,2007-2010
+z15,Li et al.,2020,43.397221,-80.311386,North_Am,Canada,"Ontario, Lake Erie Lake Ontario",2,3,Tectonic,2013-2017
+z11,Ojha et al.,2020,35.106766,-106.62918,North_Am,USA,"Albuquerque, NM",2,NA,Groundwater,2014-2022
+z05,Fischi et al.,2020,25.761681,-80.191788,North_Am,USA,"Miami Beach, FL",2,3,Urbanization,1992-1999
+P11,Gido et al.,2020,60.677809,17.172382,Europe,Sweden,Gävle,2,6,Urbanization,2015-2020
+200,Arma≈ü et al.,2017,44.4268,26.1025,Europe,Bulgaria,Bucharest,2,NA,Tectonic,1992-2014
+AF01,Cian et al.,2019,6.529184,3.26918,Africa,Nigeria,Lagos,1.9,NA,Urbanization,2015-2018
+AF01,Cian et al.,2019,13.453267,-16.575478,Africa,the Gambia,Banjul,1.4,NA,Urbanization,2004-2018
+151,Raucoules et al.,2007,48.876,2.325,Europe,France,Paris,1,NA,Urbanization,1995-2003
+111,Tosi et al.,2013,45.4371,12.3326,Europe,Italy,Venice,0.8,NA,Groundwater,2000-2010
+60,W√∂ppelmann et al.,2013,31.2156,29.9553,Africa,Egypt,Alexandria,0.6,2,Natural Compaction,2003-2010
+z19,Hammond et al.,2017,34.4,-119,North_Am,USA,"Mojave Desert, CA",0.5,1,Groundwater,1992-2009
